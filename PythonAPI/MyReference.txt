@@ -1,0 +1,5 @@
+https://e-jagriti.gov.in/services/report/report/getStateCommissionAndCircuitBench
+
+https://e-jagriti.gov.in/services/report/report/getDistrictCommissionByCommissionId?commissionId=11350000
+
+https://e-jagriti.gov.in/services/report/report/getCommissionAddress?commissionId=15290525
