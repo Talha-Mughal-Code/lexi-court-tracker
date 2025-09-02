@@ -135,6 +135,3 @@ Once the backend is running, visit http://127.0.0.1:8000/docs for interactive AP
 4. Test both frontend and backend
 5. Submit a pull request
 
-## 📄 License
-
-[Add your license information here]
